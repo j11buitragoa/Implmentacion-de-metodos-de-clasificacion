@@ -26,7 +26,8 @@ Se utiliza el algoritmo SVM (Máquinas de Vectores de Soporte) para la clasifica
 ## Requisitos previos
 
 Intalación de librerias en Python e inclusión de los datasets usados
-
+[indice de felicidad](2019.csv)
+[consumo de alcohol](drinks.csv)
 ## Instalación
 
 python clasificacion_IA.py
