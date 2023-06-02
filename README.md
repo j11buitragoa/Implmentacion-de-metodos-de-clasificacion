@@ -7,7 +7,7 @@ Se realiza mediante la implementación de arboles de decisión, SVM y regresión
 
 ## Tabla de contenidos
 
--[CAracterísticas](#características)
+- [Características](#características)
 - [Requisitos previos](#requisitos-previos)
 - [Instalación](#instalación)
 - [Uso](#uso)
