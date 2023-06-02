@@ -11,8 +11,7 @@ Se realiza mediante la implementación de arboles de decisión, SVM y regresión
 - [Requisitos previos](#requisitos-previos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+
 
 ##Características
 Implementación de Árboles de Decisión
