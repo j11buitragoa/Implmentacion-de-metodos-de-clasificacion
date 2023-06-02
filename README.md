@@ -1,4 +1,4 @@
-# Implementación de metodos de clasificación
+# Implementación de métodos de clasificación
 
 INDICES DE CONSUMO DE ALCOHOL DE CADA PAIS SEGÚN SU REPORTE DE FELICIDAD
 
