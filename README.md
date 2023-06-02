@@ -7,16 +7,14 @@ Se realiza mediante la implementación de arboles de decisión, SVM y regresión
 
 ## Tabla de contenidos
 
-- [Características](#características)
+
 - [Requisitos previos](#requisitos-previos)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
 
-## Características
 
-En esta sección, puedes destacar las características principales de tu proyecto.
 
 ## Requisitos previos
 
