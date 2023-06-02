@@ -25,7 +25,7 @@ Intalación de librerias en Python e inclusión de los datasets usados
 ## Instalación
 
 python clasificacion_IA.py
-code:classification_ia.py
+[code](classification_ia.py)
 ## Uso
 
 Explica cómo utilizar tu proyecto. Proporciona ejemplos o capturas de pantalla si es necesario.
