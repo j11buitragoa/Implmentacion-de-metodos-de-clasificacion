@@ -4,7 +4,7 @@ INDICES DE CONSUMO DE ALCOHOL DE CADA PAIS SEGÚN SU REPORTE DE FELICIDAD
 
 Este proyecto tiene como objetivo explorar la relación entre los índices de consumo de alcohol y los niveles de felicidad reportados en diferentes países.
 Se realiza mediante la implementación de arboles de decisión, SVM y regresión logistica. Para los datos se hace uso de dos datasets, uno sobre el consumo de alcohol en cada pais y el otro sobre los indices de felicidad en el año 2019.Igualmente se hace la normalización de los datos y la obtención de la precisión del modelo
-[Ver video tutorial](https://www.youtube.com/watch?v=abc123)
+[Ver video tutorial](https://youtu.be/yvUKA8ZiFak)
 
 
 ## Tabla de contenidos
