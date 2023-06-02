@@ -7,14 +7,22 @@ Se realiza mediante la implementación de arboles de decisión, SVM y regresión
 
 ## Tabla de contenidos
 
-
+-[CAracterísticas](#características)
 - [Requisitos previos](#requisitos-previos)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
 
+##Características
+Implementación de Árboles de Decisión
+En esta sección, se utiliza el algoritmo de Árboles de Decisión para clasificar los datos. Se realiza la predicción en los conjuntos de entrenamiento y prueba, y se calculan las puntuaciones de MCC y F1 para evaluar el rendimiento del modelo.
 
+Implementación de Regresión Logística
+Aquí se aplica el algoritmo de Regresión Logística para la clasificación. Se realiza la predicción en el conjunto de prueba y se evalúa la precisión del modelo.
+
+Implementación de SVM
+Se utiliza el algoritmo SVM (Máquinas de Vectores de Soporte) para la clasificación. Se realiza la predicción en el conjunto de prueba y se calculan la puntuación F1 y el coeficiente de correlación de Matthews (MCC) para evaluar el rendimiento del modelo.
 
 ## Requisitos previos
 
@@ -24,9 +32,6 @@ Intalación de librerias en Python e inclusión de los datasets usados
 
 python clasificacion_IA.py
 [code](classification_ia.py)
-## Uso
-
-Explica cómo utilizar tu proyecto. Proporciona ejemplos o capturas de pantalla si es necesario.
 
 
 
