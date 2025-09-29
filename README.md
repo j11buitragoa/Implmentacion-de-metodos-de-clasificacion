@@ -30,11 +30,11 @@ We implement and compare **Decision Trees, Logistic Regression, and SVM**, evalu
 ```bash
 python -m venv .venv
 ```
-#  Windows:
+- Windows:
 ```bash
 .venv\Scripts\activate
 ```
-#  Linux/Mac:
+- Linux/Mac:
 ```bash
 source .venv/bin/activate
 ```
@@ -45,8 +45,8 @@ pip install -r requirements.txt
 ---
 
 ## ▶️ Usage
-```bash
 Run the main script:
+```bash
 python src/train.py
 ```
 
