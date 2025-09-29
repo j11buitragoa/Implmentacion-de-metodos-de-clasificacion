@@ -26,14 +26,20 @@ We implement and compare **Decision Trees, Logistic Regression, and SVM**, evalu
 ---
 
 ## 🚀 Installation
-```
-# 1) Create virtual environment 
+# 1.  Create virtual environment 
+```bash
 python -m venv .venv
-# Windows:
+```
+#  Windows:
+```bash
 .venv\Scripts\activate
-# Linux/Mac:
+```
+#  Linux/Mac:
+```bash
 source .venv/bin/activate
-# 2) Install dependencies
+```
+# 2. Install dependencies
+```bash
 pip install -r requirements.txt
 ```
 ---
@@ -44,7 +50,7 @@ Run the main script:
 python src/train.py
 ```
 
-## 📊 Features & Expected Results}
+## 📊 Features & Expected Results
 
 1. Decision Trees
 - Classification on training and test sets.
@@ -61,7 +67,6 @@ python src/train.py
 ## 🧠 Datasets
 
 data/raw/alcohol_consumption.csv → Alcohol consumption by country.
-
 data/raw/world_happiness_2019.csv → World Happiness Report 2019 indices.
 
 Both datasets were obtained from [Kaggle](https://www.kaggle.com/).
